@@ -15,3 +15,5 @@ These figures illustrate the substantial investments required for developing adv
 navlistRecent Developments in AI Training Coststurn0news10,turn0news11,turn0news12 
 
 ## The costs to reach where it is and a American's real :LLM 
+
+Wrong way America. Wrong way America.
