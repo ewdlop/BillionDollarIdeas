@@ -1,3 +1,5 @@
+# Costs of LLMs
+
 Training large language models (LLMs) involves substantial computational resources and financial investment. The costs have varied significantly across different models and over time:
 
 - **GPT-3 (2020):** Training costs were estimated between $2 million and $4 million. citeturn0search2
@@ -11,3 +13,5 @@ Training large language models (LLMs) involves substantial computational resourc
 These figures illustrate the substantial investments required for developing advanced LLMs, though recent innovations have demonstrated potential for more cost-effective approaches.
 
 navlistRecent Developments in AI Training Coststurn0news10,turn0news11,turn0news12 
+
+## The costs to reach where it is and a American's real :LLM 
