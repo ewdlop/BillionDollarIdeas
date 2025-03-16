@@ -74,6 +74,6 @@ I: How much money did I burn? A dollar.
 
 ## AI: I generated.
 
-American: that is how much it costs me to build.
+American: that is how much it costs me to build, if I were a person.
 
-I: wait...who is this me?
+I: wait...who is this me? I am not referring to a humble person. 
