@@ -74,6 +74,6 @@ I: How much money did I burn? A dollar.
 
 ## AI: I generated.
 
-American: that is how much it costs me to build, if I were a person.
+American: that is how much it costs me to build, if I were a person. Who is talking? 
 
-I: wait...who is this me? I am not referring to a humble person. 
+I: wait...who is this me? I am not referring to a humble person. Oh yeah, it is a greedy algorithm.
