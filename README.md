@@ -78,4 +78,4 @@ American: that is how much it costs me to build, if I were a person. Who is talk
 
 I: wait...who is this me? I am not referring to a humble person. Oh yeah, it is a greedy algorithm. 
 
-It is the cost of the building. I am not talking about how much it makes. 
+It is the cost of a building. I am not talking about how much it makes. 
