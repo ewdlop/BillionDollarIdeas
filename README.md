@@ -73,3 +73,5 @@ MadFuse 🚀💰
 I: How much money did I burn? A dollar.
 
 ## AI: I generated.
+
+American: that is how much it costs me to build.
