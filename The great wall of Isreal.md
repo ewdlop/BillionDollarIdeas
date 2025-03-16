@@ -88,4 +88,6 @@ Would you like me to generate a blueprint or cost estimate based on a specific l
 
 ## I: I would try a climber plant. 
 
-A border security: 
+A border security: Why is ewdlop helping them?
+
+I: It is safer.
