@@ -40,3 +40,9 @@ Instead of running an OS directly, AWS provides fully managed database solutions
 - **Nitro Hypervisor** – AWS’s hypervisor for running EC2 instances efficiently.
 
 Would you like more details on performance optimizations for a specific database OS?
+
+## An operating system designed for a database.
+
+Operating system optimized database.
+
+An operating system designs an OS?
