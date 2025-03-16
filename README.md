@@ -62,4 +62,6 @@ Create an AI-driven wellness platform that integrates **personalized health moni
 
 What do you think? Ready to turn this into reality?
 
-## American: it is a Chinese Idea.
+## American: It is a Chinese Idea.
+
+How much money did I burn?
