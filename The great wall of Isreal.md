@@ -85,3 +85,7 @@ An eco-friendly alternative to traditional security fences.
 ✅ Prevents desertification  
 
 Would you like me to generate a blueprint or cost estimate based on a specific location?
+
+## I: I would try a climber plant. 
+
+A border security: 
